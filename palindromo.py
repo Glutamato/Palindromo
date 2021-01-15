@@ -1,6 +1,4 @@
-#Visualizar en
-#Compilador en línea
-# https://www.programiz.com/python-programming/online-compiler/
+
 
 #TERCER PASO DONDE SE PONE LA PRIMERA FUNCIÓN DEFINIDA
 #SE DETALLA LA FUNCIÓN DE 2 palindromo()
