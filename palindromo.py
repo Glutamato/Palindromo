@@ -26,9 +26,9 @@ def run():
     palabra = input('Escribe una palabra: ')
     es_palindromo = palindromo(palabra)
     if es_palindromo == True:
-        print('Es palÃ­ndromo')
+        print('Es palindromo')
     else:
-        print('No es palÃ­ndromo')
+        print('No es palindromo')
 
 
 #PRIMER PASO DE CODIFICACIÓN
